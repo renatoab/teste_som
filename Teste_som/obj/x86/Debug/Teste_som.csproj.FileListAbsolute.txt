@@ -1,0 +1,25 @@
+D:\transfer\google_drive\Google Drive\programacao\teste_som\Teste_som\Teste_som\bin\Debug\Teste_som.exe
+D:\transfer\google_drive\Google Drive\programacao\teste_som\Teste_som\Teste_som\bin\Debug\Teste_som.pdb
+D:\transfer\google_drive\Google Drive\programacao\teste_som\Teste_som\Teste_som\obj\x86\Debug\Teste_som.Form1.resources
+D:\transfer\google_drive\Google Drive\programacao\teste_som\Teste_som\Teste_som\obj\x86\Debug\Teste_som.Properties.Resources.resources
+D:\transfer\google_drive\Google Drive\programacao\teste_som\Teste_som\Teste_som\obj\x86\Debug\Teste_som.csproj.GenerateResource.Cache
+D:\transfer\google_drive\Google Drive\programacao\teste_som\Teste_som\Teste_som\obj\x86\Debug\Teste_som.exe
+D:\transfer\google_drive\Google Drive\programacao\teste_som\Teste_som\Teste_som\obj\x86\Debug\Teste_som.pdb
+D:\sync\google_drive\programacao\Teste_som\Teste_som\obj\x86\Debug\Teste_som.exe
+D:\sync\google_drive\programacao\Teste_som\Teste_som\obj\x86\Debug\Teste_som.pdb
+D:\sync\google_drive\programacao\Teste_som\Teste_som\bin\Debug\Teste_som.exe
+D:\sync\google_drive\programacao\Teste_som\Teste_som\bin\Debug\Teste_som.pdb
+D:\sync\google_drive\programacao\Teste_som\Teste_som\obj\x86\Debug\Teste_som.Form1.resources
+D:\sync\google_drive\programacao\Teste_som\Teste_som\obj\x86\Debug\Teste_som.Properties.Resources.resources
+D:\sync\google_drive\programacao\Teste_som\Teste_som\obj\x86\Debug\Teste_som.csproj.GenerateResource.Cache
+C:\Users\Renato\Google Drive\programacao\Teste_som\Teste_som\bin\Debug\Teste_som.exe
+C:\Users\Renato\Google Drive\programacao\Teste_som\Teste_som\bin\Debug\Teste_som.pdb
+C:\Users\Renato\Google Drive\programacao\Teste_som\Teste_som\obj\x86\Debug\Teste_som.Form1.resources
+C:\Users\Renato\Google Drive\programacao\Teste_som\Teste_som\obj\x86\Debug\Teste_som.Properties.Resources.resources
+C:\Users\Renato\Google Drive\programacao\Teste_som\Teste_som\obj\x86\Debug\Teste_som.csproj.GenerateResource.Cache
+C:\Users\Renato\Google Drive\programacao\Teste_som\Teste_som\obj\x86\Debug\Teste_som.exe
+C:\Users\Renato\Google Drive\programacao\Teste_som\Teste_som\obj\x86\Debug\Teste_som.pdb
+C:\Users\Renato\Google Drive\programacao\Teste_som\Teste_som\obj\x86\Debug\Teste_som.csprojResolveAssemblyReference.cache
+C:\Users\Renato\Google Drive\programacao\Teste_som\Teste_som\bin\Debug\LyricGen.dll
+C:\Users\Renato\Google Drive\programacao\Teste_som\Teste_som\bin\Debug\LyricGen.pdb
+C:\Users\Renato\Google Drive\programacao\Teste_som\Teste_som\obj\x86\Debug\Teste_som.csproj.CoreCompileInputs.cache

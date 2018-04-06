@@ -1,0 +1,7 @@
+C:\Users\Renato\Google Drive\programacao\Teste_som\Teste_som\bin\Release\Teste_som.exe
+C:\Users\Renato\Google Drive\programacao\Teste_som\Teste_som\bin\Release\Teste_som.pdb
+C:\Users\Renato\Google Drive\programacao\Teste_som\Teste_som\obj\x86\Release\Teste_som.Form1.resources
+C:\Users\Renato\Google Drive\programacao\Teste_som\Teste_som\obj\x86\Release\Teste_som.Properties.Resources.resources
+C:\Users\Renato\Google Drive\programacao\Teste_som\Teste_som\obj\x86\Release\Teste_som.csproj.GenerateResource.Cache
+C:\Users\Renato\Google Drive\programacao\Teste_som\Teste_som\obj\x86\Release\Teste_som.exe
+C:\Users\Renato\Google Drive\programacao\Teste_som\Teste_som\obj\x86\Release\Teste_som.pdb

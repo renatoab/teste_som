@@ -1,0 +1,6 @@
+C:\Users\Renato\Google Drive\programacao\Teste_som\LyricGen\bin\Debug\LyricGen.dll
+C:\Users\Renato\Google Drive\programacao\Teste_som\LyricGen\bin\Debug\LyricGen.pdb
+C:\Users\Renato\Google Drive\programacao\Teste_som\LyricGen\obj\Debug\LyricGen.dll
+C:\Users\Renato\Google Drive\programacao\Teste_som\LyricGen\obj\Debug\LyricGen.pdb
+C:\Users\Renato\Google Drive\programacao\Teste_som\LyricGen\obj\Debug\LyricGen.csprojResolveAssemblyReference.cache
+C:\Users\Renato\Google Drive\programacao\Teste_som\LyricGen\obj\Debug\LyricGen.csproj.CoreCompileInputs.cache
